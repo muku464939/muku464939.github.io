@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[An official website of Takanori Nanahara]]></description><link>https://tak-7.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Nov 2024 10:04:28 GMT</lastBuildDate><item><title><![CDATA[インドネシア滞在記・コーヒー農園編]]></title><description><![CDATA[インドネシア行ってきました わけあって，研究科の行事でインドネシアに行ってきました．
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[An official website of Takanori Nanahara]]></description><link>https://tak-7.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Nov 2024 15:34:21 GMT</lastBuildDate><item><title><![CDATA[onoMAtoPoeiAR]]></title><description><![CDATA[デモ映像はこちらから 初・エキスポ出展！！ いやはや大学院生になってからというもの，初めての出来事が沢山で，それはそれは充実した生活を送らせていただいております．Such a 幸です．
+TMIの学生と5人組で，バルセロナにて開催されたSmart City Expo World…]]></description><link>https://tak-7.com/241112_blogpost/</link><guid isPermaLink="false">https://tak-7.com/241112_blogpost/</guid><pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;/onom_poster_logo.svg&quot; width=&quot;95%&quot;&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/LPOMfmlYE8s&quot;&gt;デモ映像はこちらから&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;初・エキスポ出展！！&lt;/h4&gt;
+&lt;p&gt;いやはや大学院生になってからというもの，初めての出来事が沢山で，それはそれは充実した生活を送らせていただいております．Such a 幸です．
+TMIの学生と5人組で，バルセロナにて開催された&lt;a href=&quot;https://www.smartcityexpo.com&quot;&gt;Smart City Expo World Congress&lt;/a&gt;に出展してきました．&lt;/p&gt;
+&lt;h4&gt;どんなものを出展したの？&lt;/h4&gt;
+&lt;p&gt;オノマトペとARを使った，新しいナビゲーションアプリ &lt;strong&gt;&quot;onoMAtoPoeiAR&quot;&lt;/strong&gt; のデモを展示してきました．&lt;/p&gt;
+&lt;p&gt;メンバーは，&lt;br&gt;
+&lt;strong&gt;&lt;a href=&quot;https://sites.google.com/view/hinanoiida/japanese-page&quot;&gt;飯田 雛乃&lt;/a&gt;&lt;/strong&gt; @人文学研究科 英語学&lt;br&gt;
+&lt;strong&gt;佐部利 魁人&lt;/strong&gt; @環境学研究科 地球環境学&lt;br&gt;
+&lt;strong&gt;中村 丞汰&lt;/strong&gt; @人文学研究科 英語学​&lt;br&gt;
+&lt;strong&gt;二階堂 沙耶&lt;/strong&gt; @情報学研究科 心理・認知科学&lt;br&gt;
+&lt;span style=&quot;font-size: 80%;&quot;&gt;（あいうえお順）&lt;/span&gt;&lt;br&gt;
+そして私，&lt;strong&gt;七原 宇紀&lt;/strong&gt; @環境学研究科 都市環境学&lt;br&gt;
+です．かなりバラエティに富んだメンバーですね．バックグラウンドの違う人間と作業をすると大体いざこざが起こるもんだと予想していましたが，いざこざのいの字も生じず，終始平和に，かつ真面目に作業できたのはとてもうれしかったですね．&lt;/p&gt;
+&lt;p&gt;よくあるマップアプリでは，予め目的地を入力して，アプリが教えてくれるルートを辿るというのがオーソドックスな使い方です．でもこれってよく考えたら，あんまり楽しくない経験だと思います．人生に対して「敷かれたレールなんて走るものか！」と意気込んだりする人がそこそこいる中で，マップアプリに対して「教えられたルートに沿って歩くものか！」と意気込む人のまあ少ないこと(&lt;span style=&quot;font-size: 65%;&quot;&gt;検証はしていない)&lt;/span&gt;．知らない場所を歩くのは難しい？案内が必要？何を言っているんですか，知らない場所だからこそ探検するんじゃありませんか！&lt;/p&gt;
+&lt;p&gt;そういうわけで，onoMAtoPoeiARでは，ルートを予め割り出したり，特定の目的地に向かうことをゴールとはしません．その代わり，少し進んだ先にある「場」の雰囲気をオノマトペに変換し，ARで表示します．ローカルな雰囲気を味わいながら，探検してみましょう，ということです．&lt;/p&gt;
+&lt;p&gt;とまあ，いとも軽やかにプレゼン文句を並べておりますが，残念なことにこのプロジェクトはデモ映像留まりで，実際の開発には至っておりません．今後もその予定が立っているわけでもありません．なんだか一時のことのようで寂しい気持ちもないわけではありませんが，プロジェクトを通じて仲良くなった友人はきっと今後もかかわり続けることでしょうし，培った諸々の技術はそのうち役立ってくれることでしょう．何より，とっても楽しい期間を過ごせたことに，大きな幸を感じております．さてさて，これからも，がんばっちゃうぞぉっ！&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 70%;&quot;&gt;気が付けば，前回のヨーロッパ旅行記(バルセロナを含む)を書き上げる前に，二回目のバルセロナ滞在を終えてしまった&lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[インドネシア滞在記・コーヒー農園編]]></title><description><![CDATA[インドネシア行ってきました わけあって，研究科の行事でインドネシアに行ってきました．
 細かいことは置いておくとして，最も印象的だったコーヒー農園への訪問についてサラッと． Tilu…]]></description><link>https://tak-7.com/240918_blogpost/</link><guid isPermaLink="false">https://tak-7.com/240918_blogpost/</guid><pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;インドネシア行ってきました&lt;/h4&gt;
 &lt;p&gt;わけあって，研究科の行事でインドネシアに行ってきました．
 細かいことは置いておくとして，最も印象的だったコーヒー農園への訪問についてサラッと．&lt;/p&gt;
